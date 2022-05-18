@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/1.0.0": {
+      "type": "project",
+      "path": "../../AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj",
+      "msbuildProject": "../../AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "AS2122_4E_INF_MiloLuca_GestioneArticoli.Library >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PC\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\PC\\Source\\Repos\\lucainf\\AS2122_4E_INF_CognomeNome_GestioneArticoli\\AS2122_4E_INF_MiloLuca_GestioneArticoli.Library\\AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\lucainf\\AS2122_4E_INF_CognomeNome_GestioneArticoli\\AS2122_4E_INF_MiloLuca_GestioneArticoli.Library\\AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

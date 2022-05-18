@@ -2,9 +2,11 @@ namespace AS2122_4E_INF_MiloLuca_GestioneArticoli.UX
 {
     public partial class Form1 : Form
     {
+        List<Library.Articolo> articoli;
         public Form1()
         {
             InitializeComponent();
+            articoli = new List<Library.Articolo>;
         }
 
         private void Form1_Load(object sender, EventArgs e)

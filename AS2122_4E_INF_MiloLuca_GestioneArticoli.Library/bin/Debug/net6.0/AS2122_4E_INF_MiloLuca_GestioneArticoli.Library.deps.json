@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/1.0.0": {
+        "runtime": {
+          "AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

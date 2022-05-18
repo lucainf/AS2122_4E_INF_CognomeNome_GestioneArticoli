@@ -113,6 +113,11 @@
             // cmb_unitamisura
             // 
             this.cmb_unitamisura.FormattingEnabled = true;
+            this.cmb_unitamisura.Items.AddRange(new object[] {
+            "NR",
+            "KG",
+            "Q",
+            "T"});
             this.cmb_unitamisura.Location = new System.Drawing.Point(142, 120);
             this.cmb_unitamisura.Name = "cmb_unitamisura";
             this.cmb_unitamisura.Size = new System.Drawing.Size(100, 23);
@@ -142,6 +147,8 @@
             // cmb_visualizza
             // 
             this.cmb_visualizza.FormattingEnabled = true;
+            this.cmb_visualizza.Items.AddRange(new object[] {
+            "Visualizza articoli"});
             this.cmb_visualizza.Location = new System.Drawing.Point(507, 12);
             this.cmb_visualizza.Name = "cmb_visualizza";
             this.cmb_visualizza.Size = new System.Drawing.Size(121, 23);

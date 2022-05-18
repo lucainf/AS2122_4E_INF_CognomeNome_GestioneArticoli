@@ -1,0 +1,17 @@
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\bin\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.exe
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\bin\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.deps.json
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\bin\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.runtimeconfig.json
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\bin\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.dll
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\bin\Debug\net6.0-windows\ref\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.dll
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\bin\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.pdb
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.Form1.resources
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.csproj.GenerateResource.cache
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.dll
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\ref\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.dll
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.pdb
+C:\Users\PC\Source\Repos\lucainf\AS2122_4E_INF_CognomeNome_GestioneArticoli\UX\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX\obj\Debug\net6.0-windows\AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.genruntimeconfig.cache
