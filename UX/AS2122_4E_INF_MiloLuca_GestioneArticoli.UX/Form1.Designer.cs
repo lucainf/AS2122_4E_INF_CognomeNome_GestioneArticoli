@@ -28,21 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btn_update = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.cmb_unitamisura = new System.Windows.Forms.ComboBox();
-            this.txt_codice = new System.Windows.Forms.TextBox();
-            this.txt_descrizione = new System.Windows.Forms.TextBox();
             this.txt_prezzo = new System.Windows.Forms.TextBox();
+            this.txt_descrizione = new System.Windows.Forms.TextBox();
+            this.txt_codice = new System.Windows.Forms.TextBox();
+            this.cmb_unitamisura = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btn_update = new System.Windows.Forms.Button();
             this.cmb_visualizza = new System.Windows.Forms.ComboBox();
             this.btn_visualizza = new System.Windows.Forms.Button();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.lbl_narticoli = new System.Windows.Forms.Label();
+            this.form1BindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.form1BindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -63,52 +66,26 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Dettagli Articolo";
             // 
-            // btn_update
+            // txt_prezzo
             // 
-            this.btn_update.Location = new System.Drawing.Point(142, 291);
-            this.btn_update.Name = "btn_update";
-            this.btn_update.Size = new System.Drawing.Size(216, 48);
-            this.btn_update.TabIndex = 1;
-            this.btn_update.Text = "Aggiungi/modifica articolo";
-            this.btn_update.UseVisualStyleBackColor = true;
-            this.btn_update.Click += new System.EventHandler(this.btn_update_Click);
+            this.txt_prezzo.Location = new System.Drawing.Point(142, 167);
+            this.txt_prezzo.Name = "txt_prezzo";
+            this.txt_prezzo.Size = new System.Drawing.Size(100, 23);
+            this.txt_prezzo.TabIndex = 9;
             // 
-            // label1
+            // txt_descrizione
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 27);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 15);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Codice";
+            this.txt_descrizione.Location = new System.Drawing.Point(142, 72);
+            this.txt_descrizione.Name = "txt_descrizione";
+            this.txt_descrizione.Size = new System.Drawing.Size(100, 23);
+            this.txt_descrizione.TabIndex = 8;
             // 
-            // label2
+            // txt_codice
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(6, 75);
-            this.label2.Name = "label2";
-            this.label2.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.label2.Size = new System.Drawing.Size(67, 15);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Descrizione";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(6, 123);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(87, 15);
-            this.label3.TabIndex = 4;
-            this.label3.Text = "Unità di misura";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(6, 170);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(41, 15);
-            this.label4.TabIndex = 5;
-            this.label4.Text = "Prezzo";
+            this.txt_codice.Location = new System.Drawing.Point(142, 24);
+            this.txt_codice.Name = "txt_codice";
+            this.txt_codice.Size = new System.Drawing.Size(100, 23);
+            this.txt_codice.TabIndex = 7;
             // 
             // cmb_unitamisura
             // 
@@ -123,26 +100,52 @@
             this.cmb_unitamisura.Size = new System.Drawing.Size(100, 23);
             this.cmb_unitamisura.TabIndex = 6;
             // 
-            // txt_codice
+            // label4
             // 
-            this.txt_codice.Location = new System.Drawing.Point(142, 24);
-            this.txt_codice.Name = "txt_codice";
-            this.txt_codice.Size = new System.Drawing.Size(100, 23);
-            this.txt_codice.TabIndex = 7;
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(6, 170);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(41, 15);
+            this.label4.TabIndex = 5;
+            this.label4.Text = "Prezzo";
             // 
-            // txt_descrizione
+            // label3
             // 
-            this.txt_descrizione.Location = new System.Drawing.Point(142, 72);
-            this.txt_descrizione.Name = "txt_descrizione";
-            this.txt_descrizione.Size = new System.Drawing.Size(100, 23);
-            this.txt_descrizione.TabIndex = 8;
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(6, 123);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(87, 15);
+            this.label3.TabIndex = 4;
+            this.label3.Text = "Unità di misura";
             // 
-            // txt_prezzo
+            // label2
             // 
-            this.txt_prezzo.Location = new System.Drawing.Point(142, 167);
-            this.txt_prezzo.Name = "txt_prezzo";
-            this.txt_prezzo.Size = new System.Drawing.Size(100, 23);
-            this.txt_prezzo.TabIndex = 9;
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(6, 75);
+            this.label2.Name = "label2";
+            this.label2.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.label2.Size = new System.Drawing.Size(67, 15);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Descrizione";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 27);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(44, 15);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Codice";
+            // 
+            // btn_update
+            // 
+            this.btn_update.Location = new System.Drawing.Point(142, 291);
+            this.btn_update.Name = "btn_update";
+            this.btn_update.Size = new System.Drawing.Size(216, 48);
+            this.btn_update.TabIndex = 1;
+            this.btn_update.Text = "Aggiungi/modifica articolo";
+            this.btn_update.UseVisualStyleBackColor = true;
+            this.btn_update.Click += new System.EventHandler(this.btn_update_Click);
             // 
             // cmb_visualizza
             // 
@@ -166,12 +169,14 @@
             // 
             // listBox1
             // 
+            this.listBox1.DataSource = this.form1BindingSource;
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 15;
             this.listBox1.Location = new System.Drawing.Point(507, 41);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(202, 394);
             this.listBox1.TabIndex = 3;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox1_SelectedIndexChanged);
             // 
             // lbl_narticoli
             // 
@@ -181,6 +186,10 @@
             this.lbl_narticoli.Size = new System.Drawing.Size(62, 15);
             this.lbl_narticoli.TabIndex = 4;
             this.lbl_narticoli.Text = "Articoli (0)";
+            // 
+            // form1BindingSource
+            // 
+            this.form1BindingSource.DataSource = typeof(AS2122_4E_INF_MiloLuca_GestioneArticoli.UX.Form1);
             // 
             // Form1
             // 
@@ -197,6 +206,7 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.form1BindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -218,5 +228,6 @@
         private Button btn_visualizza;
         private ListBox listBox1;
         private Label lbl_narticoli;
+        private BindingSource form1BindingSource;
     }
 }

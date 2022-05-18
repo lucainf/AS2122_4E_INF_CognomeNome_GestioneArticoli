@@ -6,12 +6,11 @@ namespace AS2122_4E_INF_MiloLuca_GestioneArticoli.UX
         public Form1()
         {
             InitializeComponent();
-            articoli = new List<Library.Articolo>;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            articoli = new List<Library.Articolo>;
         }
 
         private void btn_update_Click(object sender, EventArgs e)
@@ -21,6 +20,12 @@ namespace AS2122_4E_INF_MiloLuca_GestioneArticoli.UX
 
         private void btn_visualizza_Click(object sender, EventArgs e)
         {
+            listBox1.
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
 
         }
     }
