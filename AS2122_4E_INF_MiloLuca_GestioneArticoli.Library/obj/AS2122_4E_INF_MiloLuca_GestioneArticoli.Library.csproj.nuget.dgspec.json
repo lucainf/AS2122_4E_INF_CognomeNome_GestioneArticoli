@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/Ruka/Scrivania/AS2122_4E_INF_MiloLuca_GestioneArticoli/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj": {}
+  },
+  "projects": {
+    "/home/Ruka/Scrivania/AS2122_4E_INF_MiloLuca_GestioneArticoli/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/Ruka/Scrivania/AS2122_4E_INF_MiloLuca_GestioneArticoli/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj",
+        "projectName": "AS2122_4E_INF_MiloLuca_GestioneArticoli.Library",
+        "projectPath": "/home/Ruka/Scrivania/AS2122_4E_INF_MiloLuca_GestioneArticoli/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library.csproj",
+        "packagesPath": "/home/Ruka/.nuget/packages/",
+        "outputPath": "/home/Ruka/Scrivania/AS2122_4E_INF_MiloLuca_GestioneArticoli/AS2122_4E_INF_MiloLuca_GestioneArticoli.Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/Ruka/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
